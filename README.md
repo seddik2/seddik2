@@ -24,17 +24,17 @@
 <a href="https://www.linkedin.com/in/seddik-mohey" target="_blank"><img src="https://img.shields.io/badge/-Seddik%20Mohey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+### 🛠 &nbsp;Tech Stack  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;  
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp;  
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;  
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=python)&nbsp;  
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;  
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)&nbsp;  
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 
 
 
